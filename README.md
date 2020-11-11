@@ -9,11 +9,6 @@ This app is the result of my studies using AlamoFire and SwiftyJSON. It is a sim
 * Tap in an item of the list will show his details, like the forks count and open issues.
 * Search of repositories by more criteria like: by programming language, number of stars, number of followers, etc...(TODO)
 
-## Pictures
-
-<img src="oooo" width=300>
-<img src="oooo" width=300>
-
 ## License
 
-This project is licensed under the [MIT License](oooo)
+This project is licensed under the [MIT License](https://github.com/inaldor/Github-Repo-Search/blob/master/LICENSE)
